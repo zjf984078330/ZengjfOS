@@ -18,7 +18,7 @@ OOoo...
 
 索引 | 文档名称(docs目录下) | 简述
 -----|:------|:-----
-0001 | [Raspberry Pi](https://github.com/ZengjfOS/RaspberryPi)                  | 使用树莓派分析Linux/Android系统
+0001 | [Raspberry Pi](https://github.com/ZengjfOS/RaspberryPi)                  | 使用树莓派分析Linux/Android系统（私有，非公开仓库）
 0003 | [batTool](https://github.com/ZengjfOS/batTool)                           | cmd命令对adb工具封装
 0004 | [LinuxSystem](https://github.com/ZengjfOS/LinuxSystem)					| 仓库索引
 0005 | [UART Tool](https://github.com/ZengjfOS/UartRS)：                        | Linux/Android的命令行串口调试工具
